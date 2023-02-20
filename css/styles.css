@@ -86,7 +86,7 @@
    right: 0;
    width: 15px;
    height: 12px;
-   background-image: url(/images/arrow.svg);
+   background-image: url(../images/arrow.svg);
    background-size: 100% auto;
    background-repeat: no-repeat;
    background-position: right center;
@@ -142,7 +142,7 @@
    width: 24px;
    height: 24px;
    border-radius: 50%;
-   background-image: url(/images/ok.svg);
+   background-image: url(../images/ok.svg);
    background-repeat: no-repeat;
    background-position: 59% 55%;;
 }
@@ -487,7 +487,7 @@
    display: block;
    width: 24px;
    height: 24px;
-   background-image: url(/images/Icons/burger.svg);
+   background-image: url(../images/Icons/burger.svg);
    background-repeat: no-repeat;
    background-size: 100% auto;
    background-position: center;
@@ -496,7 +496,7 @@
 }
 
 .menu--close {
-   background-image: url(/images/Icons/Close_24x24.svg);
+   background-image: url(../images/Icons/Close_24x24.svg);
    background-repeat: no-repeat;
    background-position: center;
    transform: rotate(180deg);
